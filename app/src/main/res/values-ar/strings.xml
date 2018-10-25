@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Translate IT</string>
+    <string name="this_field_is_required">هذه الخانة مطلوبة</string>
+    <string name="welcome">مرحبا</string>
+    <string name="welcome_info">مرحبا في Translate IT هذا تطبيق مجاني لترجمة الجمل و معرفة اللغة</string>
+    <string name="intro_first_header">ترجم الجملة</string>
+    <string name="intro_first">فقط أكتب الجملة التي تريد ترجمها و سيقوم التطبيق بترجمتها</string>
+    <string name="intro_second_header">تحديد الجمل من الصورة</string>
+    <string name="intro_second">يمكنك التقاط صورة للجملة التي تريد ترجمتها و ستتم ترجمتها في الحال</string>
+    <string name="enter_text">أدخل الجملة هنا</string>
+    <string name="translate">ترجم</string>
+    <string name="detect">"تحديد اللغة "</string>
+    <string name="loading">جاري التحميل</string>
+    <string name="from">من</string>
+    <string name="to">الي</string>
+    <string name="ok">حسنا</string>
+    <string name="translating">جاري الترجمة</string>
+    <string name="no_internet">لا يوجد أتصال بالشبكة</string>
+    <string name="no_internet_message">لا يوجد أتصال بالشبكة, من فضلك حاول الأتصال بالشبكة و حاول مرة أخري</string>
+    <string name="history">التاريخ</string>
+    <string name="detect_photo">تحديد الجملة</string>
+    <string name="choose_language">من فضلك أختار اللغة لترجمة الجملة</string>
+    <string name="detect_error_title">خطأ بالتحديد</string>
+    <string name="detect_error_body">لا نستطيع تحديد الجملة من الصورة, من فضلك حاول ألتقاط صورة واضحة أكثر</string>
+</resources>

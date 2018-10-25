@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name" translatable="false">Translate IT</string>
+    <string name="this_field_is_required">This Field is required</string>
+    <string name="welcome">Welcome</string>
+    <string name="welcome_info">Welcome to Translate IT a free app for instantly translate Texts</string>
+    <string name="intro_first_header">Translate Text</string>
+    <string name="intro_first">Just type the word you want to translate and we will do the heavy work for you</string>
+
+    <string name="intro_second_header">Scan Text</string>
+    <string name="intro_second">Scan the text to translate it</string>
+
+    <string name="enter_text">Enter the Text here</string>
+    <string name="translate">Translate</string>
+    <string name="detect">Detect</string>
+
+    <string name="loading">Loading</string>
+
+    <string name="from">from</string>
+    <string name="to">to</string>
+
+    <string name="ok">OK</string>
+    <string name="translating">Translating</string>
+
+    <string name="no_internet">No Internet Connection</string>
+    <string name="no_internet_message"> No Internet Connection, please re-connect to internet or try again later</string>
+
+    <string name="history">History</string>
+    <string name="detect_photo">detect photo</string>
+
+    <string name="choose_language">Please choose The language to translate your text</string>
+
+    <string name="detect_error_title">Detection Error</string>
+    <string name="detect_error_body">Couldn\'t detect the text within the photo please try capturing a clearer photo</string>
+    <string name="translated_by" translatable="false">Translated by YANDEX</string>
+
+
+
+</resources>
